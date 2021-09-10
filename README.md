@@ -1,2 +1,3 @@
 # tinDog
-Tin Dog was first project in Bootcamp. Project focus on HTML and CSS
+<p>Tin Dog was first project in Bootcamp. The projcet was to ensure basic understanding of HTML and CSS
+
